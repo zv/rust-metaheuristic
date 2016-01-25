@@ -1,0 +1,10 @@
+[package]
+name = "tabu"
+version = "0.1.0"
+authors = ["Zephyr Pellerin <zv@nxvr.org>"]
+
+[dependencies]
+rand = "0.3.13"
+
+[[bin]]
+name = "tabu"
