@@ -1,3 +1,5 @@
+//! Tabu Search in Rust 
+
 extern crate rand;
 
 use std::ops::{Index, IndexMut};
